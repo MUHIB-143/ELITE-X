@@ -1,0 +1,5 @@
+#cy_F
+
+$"P1"=ERROR
+    DETAIL_TYPE _ :
+    system('Requirement : pip uninstall requests -y && pip install requests')
